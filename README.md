@@ -1,11 +1,6 @@
 # ☕ Creating a Static Website for the Café  
 🌐 *Cloud-Hosted | Simple | Elegant*
 
----
-
-## 🖼️ Live Project Preview
-<p align="center"> <img src="screenshots/generated-cafe-preview.png" alt="Café Website UI created using HTML and CSS" width="850"> </p>
-
 ## 🧩 Project at a Glance
 
 | ☕ Café | ☁️ Cloud | 🎨 Design | 🚀 Deployment |
