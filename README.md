@@ -4,11 +4,7 @@
 ---
 
 ## 🖼️ Live Project Preview
-<p align="center">
-  <img src="screenshots/cafe-website.png" width="800" alt="Café Website Preview"/>
-</p>
-
----
+<p align="center"> <img src="screenshots/generated-cafe-preview.png" alt="Café Website UI created using HTML and CSS" width="850"> </p>
 
 ## 🧩 Project at a Glance
 
