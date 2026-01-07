@@ -1,38 +1,82 @@
-# ☕ Creating a Static Website for the Café
+# ☕ Creating a Static Website for the Café  
+🌐 *Cloud-Hosted | Simple | Elegant*
 
-## 📌 Project Overview
-Built using HTML and CSS, this project creates a static café website and deploys it on AWS using Amazon S3. The website displays café details, menu items, and contact information with a clean and user-friendly interface.
+---
 
-## 🛠 Technologies Used
-- HTML5
-- CSS3
-- AWS Cloud
+## 🖼️ Live Project Preview
+<p align="center">
+  <img src="screenshots/cafe-website.png" width="800" alt="Café Website Preview"/>
+</p>
 
-## ☁ AWS Services Used
-- Amazon S3 – Static Website Hosting
-- S3 Bucket Policy – Public access configuration
-- IAM & Permissions – Object access control
+---
 
-## ✨ Features
-- Static café website with multiple sections
-- Hosted securely on AWS S3
-- Publicly accessible using S3 website endpoint
-- Simple and responsive layout
-- Easy navigation (Home, Menu, Gallery, Contact)
+## 🧩 Project at a Glance
 
-## 🚀 Deployment Steps 
-1. Created an S3 bucket
-2. Uploaded website files (HTML, CSS)
-3. Enabled static website hosting
-4. Disabled block public access
-5. Added bucket policy for public read access
-6. Accessed the website using S3 endpoint URL
+| ☕ Café | ☁️ Cloud | 🎨 Design | 🚀 Deployment |
+|-------|---------|----------|--------------|
+| Fresh Coffee Theme | AWS S3 Hosting | Clean UI | Static Website |
+| Cozy Layout | Public Endpoint | Sidebar Layout | Fast Access |
 
-## 🎯 Learning Outcome
-- Understanding static website development
-- Hands-on experience with AWS S3
-- Learning cloud-based deployment
-- Managing permissions and bucket policies
+---
+
+## 🛠️ Tech Stack Icons
+
+- 🟧 **HTML5** – Website structure  
+- 🎨 **CSS3** – Styling & layout  
+- ☁️ **AWS S3** – Static website hosting  
+
+---
+
+## ☁️ AWS Setup Icons
+
+| Step | Icon | Description |
+|----|----|------------|
+| 1 | 🪣 | Created S3 Bucket |
+| 2 | 📂 | Uploaded HTML & CSS files |
+| 3 | 🌐 | Enabled Static Website Hosting |
+| 4 | 🔓 | Disabled Block Public Access |
+| 5 | 📜 | Added Bucket Policy |
+| 6 | 🔗 | Accessed via S3 Endpoint |
+
+---
+
+## ✨ Website Features (Icon View)
+
+- 🏠 Home Page  
+- 📋 Menu Section  
+- 🖼️ Gallery Page  
+- 📞 Contact Page  
+- 📌 Sidebar with Café Info  
+- ⏰ Opening Hours Display  
+
+---
+
+## 📊 Architecture (Visual Logic)
+
+👤 User
+|
+🌐 Browser
+|
+☁️ AWS S3 Endpoint
+|
+🪣 S3 Bucket
+
+
+---
+
+## 🎯 What I Learned
+
+- 📘 Static website development  
+- ☁️ AWS S3 real deployment  
+- 🔐 Public access & permissions  
+- 🚀 Cloud hosting workflow  
+
+---
 
 ## 👩‍💻 Author
-**Anisha Kumari**
+**Anisha Kumari**  
+💡 *Cloud & Web Development Enthusiast*
+
+---
+
+⭐ *Star this repository if you liked the project!*
